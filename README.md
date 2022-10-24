@@ -14,7 +14,7 @@ Deixo aqui, um agradecimento especial aos contribuintes. Tks!
 ![produzir um modelo preditivo de resultado para ganho de massa muscular (1)](https://user-images.githubusercontent.com/81118319/197626643-acf79cd8-a987-47d0-8ae1-c84e798d1b76.jpg)
 --------------------------------------------------------------------------------------------------------------------
 -Vídeo Clipe:
-https://youtu.be/j9AEP6x2IjE
+* https://youtu.be/j9AEP6x2IjE
 -Fontes de dados: 
 * https://www.youtube.com/c/renatocariani
 * https://www.youtube.com/c/paulomuzy
