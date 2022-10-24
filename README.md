@@ -15,6 +15,7 @@ Deixo aqui, um agradecimento especial aos contribuintes. Tks!
 --------------------------------------------------------------------------------------------------------------------
 -Vídeo Clipe:
 * https://youtu.be/j9AEP6x2IjE
+
 -Fontes de dados: 
 * https://www.youtube.com/c/renatocariani
 * https://www.youtube.com/c/paulomuzy
